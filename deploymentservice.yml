@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: bala3404/nodeapp:latest
+        image: bala3404/nodeapp:1.0
         ports:
         - containerPort: 3000
         
